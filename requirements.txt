@@ -1,10 +1,10 @@
 
-dlib
+
 cmake
 numpy
 Python-IO
 pillow
 opencv-python-headless
 streamlit
-face_recognition
+face_recognition @ git+https://github.com/thetoby9944/face_recognition
 
