@@ -3,3 +3,4 @@ Python-IO
 pillow
 opencv-python-headless
 streamlit
+face_recognition
