@@ -1,8 +1,9 @@
+dlib
+cmake
 numpy
 Python-IO
 pillow
 opencv-python-headless
 streamlit
 face_recognition
-dlib
-cmake
+
